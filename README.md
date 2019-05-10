@@ -14,10 +14,14 @@
 
 - [DDFE's blog](https://github.com/DDFE/DDFE-blog)
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog)
+- [言川的博客](https://github.com/lihongxun945/myblog)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
 - [Personal blog by Dan Abramov](https://overreacted.io/)
-
 
 ## Web Server
 
 - [Let's code a web server from scratch with Node.js Streams!](https://www.codementor.io/ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
+
+## Webpack
+
+- [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
